@@ -2,7 +2,7 @@
 My simple pagination jQuery plugin
 
 ## View
-![Иллюстрация к проекту](https://github.com/berzeg07/test1/raw/master/img/view.jpg)
+![Иллюстрация к проекту](https://github.com/berzeg07/pagenavjs/raw/master/img/view.jpg)
 
 ## Usage
 
