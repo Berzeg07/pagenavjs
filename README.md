@@ -1,5 +1,5 @@
 # Pagenavjs
-My simple pagination jQuery plugin
+Simple pagination jQuery plugin
 
 ## View
 ![Иллюстрация к проекту](https://github.com/berzeg07/pagenavjs/raw/master/img/view.jpg)
